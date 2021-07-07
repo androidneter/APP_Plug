@@ -1,0 +1,3 @@
+include ':app_plug'
+include ':app_host'
+rootProject.name = "APP_Plug"
